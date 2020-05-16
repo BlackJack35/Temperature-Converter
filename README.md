@@ -7,11 +7,11 @@ Python must be installed on your computer
 
 For Windows:open CMD
 
-go to python installation folder paste Temparature-Converter 
+go to python installation folder paste Sıcaklık Ölçer.py 
 
-use: python.exe "Sıcaklık Çevirici.py"
+use: python.exe "Sıcaklık Ölçer.py"
 
 
 For Linux:
 
-open terminal and type: python Sıcaklık Çeviricisi.py
+open terminal and type: python Sıcaklık Ölçer.py
